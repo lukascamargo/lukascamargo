@@ -7,7 +7,7 @@
 
 
 
-I am Lukas Camargo, a Software Engineer with more than 7 years of experience working mostly with web applications. 
+I am Lukas Camargo, a Software Engineer with more than 9 years of experience working mostly with web applications. 
 
 ## 👀 About Me
 - Currently workin as a Software Engineering Coordinator at NTT Ltd. Brazil
